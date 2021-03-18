@@ -29,7 +29,7 @@ p {
 }
 
 .parallax {
-  background-image: url("./assets/images/img_parallax.jpeg");
+  background-image: url("../../assets/images/img_parallax.jpeg");
 
   /* Set a specific height */
   min-height: 70vh;
@@ -125,7 +125,7 @@ p {
 
 .parallax2 {
   /* The image used */
-  background-image: url("./assets/images/img_parallax2.jpeg");
+  background-image: url("../../assets/images/img_parallax2.jpeg");
 
   /* Set a specific height */
   min-height: 70vh;
@@ -141,7 +141,7 @@ p {
 
 .parallax3 {
   /* The image used */
-  background-image: url("./assets/images/img_parallax3.jpeg");
+  background-image: url("../../assets/images/img_parallax3.jpeg");
 
   /* Set a specific height */
   min-height: 70vh;
@@ -157,7 +157,7 @@ p {
 
 .parallax4 {
   /* The image used */
-  background-image: url("./assets/images/img_parallax4.jpeg");
+  background-image: url("../../assets/images/img_parallax4.jpeg");
 
   /* Set a specific height */
   min-height: 70vh;
@@ -173,7 +173,7 @@ p {
 
 .parallax5 {
   /* The image used */
-  background-image: url("./assets/images/img_parallax5.jpeg");
+  background-image: url("../../assets/images/img_parallax5.jpeg");
 
   /* Set a specific height */
   min-height: 70vh;
