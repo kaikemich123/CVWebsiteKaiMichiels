@@ -29,7 +29,6 @@ p {
 }
 
 .parallax {
-  /* The image used */
   background-image: url("./assets/images/img_parallax.jpeg");
 
   /* Set a specific height */
