@@ -27,7 +27,9 @@ p {
   font-family: "Lato", sans-serif;
   color: #c5c6c7;
 }
-
+header p {
+  color: #66fcf1;
+}
 .parallax {
   background-image: url("../../assets/images/img_parallax.jpeg");
 
@@ -223,7 +225,7 @@ header ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  color: #c5c6c7;
+  color: #66fcf1;
   margin-top: 0.5rem;
 }
 
@@ -233,7 +235,7 @@ header ul li {
 
 header ul li a {
   font-family: "Lato", sans-serif;
-  color: #c5c6c7;
+  color: #66fcf1;
   text-decoration: none;
 }
 
