@@ -284,3 +284,25 @@ header ul li a {
     font-size: 15px;
   }
 }
+
+#languageSelector {
+  background-color: black;
+  width: 100px;
+  height: 25px;
+  position: absolute;
+  top: 20px;
+  right: 50px;
+  text-align: center;
+}
+#languageSelector a {
+  color: white;
+  text-decoration: 0;
+  font-family: sans-serif;
+  font-size: 120%;
+}
+#languageSelector a:hover {
+  color: gray;
+  text-decoration: 0;
+  font-family: sans-serif;
+  font-size: 120%;
+}
